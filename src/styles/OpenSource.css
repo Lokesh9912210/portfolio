@@ -1,0 +1,24 @@
+#opensource h2 {
+  font-size: 2.5rem;
+}
+
+#opensource p {
+  margin-top: 20px;
+  color: #ccc;
+}
+
+.opensource-box {
+  margin-top: 30px;
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.opensource-box ul {
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.opensource-box li {
+  margin-bottom: 10px;
+}

@@ -21,6 +21,8 @@ export default function Hero() {
           2000,
           "Cloud Learner",
           2000,
+          "AI Builder",
+          2000,
           "Open Source Contributor",
           2000
         ]}
@@ -36,7 +38,7 @@ export default function Hero() {
         className="hero-buttons"
       >
         <a
-          href="/lokesh-main-resume.pdf"
+          href="/Lokesh_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
